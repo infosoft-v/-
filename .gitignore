@@ -1,0 +1,8 @@
+SRC/Build/*.*
+SRC/*/*.*
+SRC/dist/*.*
+SRC/__pycache__/*.*
+*.ZIP
+*.7Z
+*.txt
+SRC/build/analize_to_xml/*.*
