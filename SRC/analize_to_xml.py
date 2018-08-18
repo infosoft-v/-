@@ -47,4 +47,4 @@ if len(sys.argv) > 1:
     ET.ElementTree(root).write(file_xml_name)
 
 else:
-    print ("Формат запуска: analize_to_xml.exe <имя_файла.txt>")
+    print ("Формат запуска: analize_to_xml.exe имя_файла.txt")
